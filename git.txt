@@ -18,3 +18,6 @@ git remote add origin (ligar o local ao remoto);
 git push -u origin main(para sempre do main para o origin) 
 
 git pull(puxa do remoto para o local)
+
+
+git checkout 
