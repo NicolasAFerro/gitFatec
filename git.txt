@@ -1,0 +1,20 @@
+#####git e github Fatec#### 
+
+
+git tag lista as versões
+git tag v1.0 
+git tag v2.git				touch nome(cria o arquivo) 
+
+git log(lista os commits)	  		git log --oneline  
+
+
+	      nome
+git branch -M main 
+
+               nomeRemoto
+git remote add origin (ligar o local ao remoto); 
+
+	 -u para primeiro commit
+git push -u origin main(para sempre do main para o origin) 
+
+git pull(puxa do remoto para o local)
